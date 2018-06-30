@@ -7,6 +7,8 @@ public class Main {
 		 System.out.println("Hello, World");
 		 System.out.println("Lela je bila ovde. xoxo");
 		 System.out.println("Maki je bila ovde. xoxo");
+		 System.out.println("Cekamo jos Sonjicu i polecemo!!! xoxo");
+		 
 	}
 
 }
