@@ -23,7 +23,7 @@ public class LoginTest {
 	@Before
 	public void setupSelenium() {
 		// instantiate browser
-		System.setProperty("webdriver.chrome.driver", "chromedriver");
+		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		browser = new ChromeDriver();
 		// maximize window
 		browser.manage().window().maximize();
